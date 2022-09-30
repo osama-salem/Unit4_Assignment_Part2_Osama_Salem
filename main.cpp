@@ -3,6 +3,12 @@
 #include "Input_Validation_Extended-1.h" //Requests user's input and vaildates it
 using namespace std;
 
+/*Osama Salem
+  COSC-1436-57001
+  Replit.com
+  program that takes input from the user for the value of num and prints out the first “num” ordinals, followed by Hello. 
+*/
+
 int main() {
 
   //Declare Variables
